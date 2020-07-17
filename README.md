@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on building a multitier cloud platform monitoring service.
+🌱 I’m currently learning React
+📫 How to reach me: https://twitter.com/devrmj
+
 <!--
 **DevRMJ/DevRMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Visits Badge](https://badges.pufler.dev/visits/devrmj/devrmj)](https://github.com/devrmj/devrmj)
+
+Badge made by https://badges.pufler.dev
