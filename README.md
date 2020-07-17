@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+[![Visits Badge](https://badges.pufler.dev/visits/devrmj/devrmj)](https://github.com/devrmj/devrmj)
+
 🔭 I’m currently working on building a multitier cloud platform monitoring service.
+
 🌱 I’m currently learning React
+
 📫 How to reach me: https://twitter.com/devrmj
 
 <!--
@@ -19,6 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/devrmj/devrmj)](https://github.com/devrmj/devrmj)
-
-Badge made by https://badges.pufler.dev
+Visits Badge made by https://badges.pufler.dev
