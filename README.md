@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning React
 
-📫 How to reach me: https://twitter.com/devrmj
+📫 How to reach me: [@devrmj](https://twitter.com/devrmj)
 
 <!--
 **DevRMJ/DevRMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
