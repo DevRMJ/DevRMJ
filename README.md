@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/devrmj/devrmj)](https://github.com/devrmj/devrmj)
-
 🔭 I’m currently working on building a multitier cloud platform monitoring service.
 
 🌱 I’m currently learning React
@@ -22,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Visits Badge made by https://badges.pufler.dev
